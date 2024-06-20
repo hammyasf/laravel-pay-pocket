@@ -6,6 +6,7 @@
         "laravel",
         "laravel-pay-pocket"
     ],
+    "version": 1.0,
     "homepage": "https://github.com/hpwebdeveloper/laravel-pay-pocket",
     "license": "MIT",
     "authors": [
